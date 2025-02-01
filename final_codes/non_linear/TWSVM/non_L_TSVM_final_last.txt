@@ -1,0 +1,15 @@
+acute-inflammation_R	size(A,1)=59	size(A_test,1)=61	accuracy=100	min_C1=1e-05	min_mew=0.5
+acute-nephritis_R	size(A,1)=59	size(A_test,1)=61	accuracy=100	min_C1=1e-05	min_mew=0.5
+breast-cancer_R	size(A,1)=142	size(A_test,1)=144	accuracy=73.6111	min_C1=0.0001	min_mew=8
+breast-cancer-wisc_R	size(A,1)=348	size(A_test,1)=350	accuracy=95.4286	min_C1=0.1	min_mew=32
+breast-cancer-wisc-prog_R	size(A,1)=98	size(A_test,1)=100	accuracy=75	min_C1=1e-05	min_mew=16
+credit-approval_R	size(A,1)=344	size(A_test,1)=346	accuracy=87.8613	min_C1=0.1	min_mew=32
+echocardiogram_R	size(A,1)=64	size(A_test,1)=66	accuracy=84.8485	min_C1=1e-05	min_mew=16
+haberman-survival_R	size(A,1)=152	size(A_test,1)=154	accuracy=74.026	min_C1=1e-05	min_mew=2
+heart-hungarian_R	size(A,1)=146	size(A_test,1)=148	accuracy=79.0541	min_C1=1e-05	min_mew=4
+heart-switzerland_R	size(A,1)=60	size(A_test,1)=62	accuracy=17.7419	min_C1=0.1	min_mew=8
+hepatitis_R	size(A,1)=76	size(A_test,1)=78	accuracy=82.0513	min_C1=10	min_mew=32
+mammographic_R	size(A,1)=479	size(A_test,1)=481	accuracy=81.4969	min_C1=0.1	min_mew=16
+planning_R	size(A,1)=90	size(A_test,1)=92	accuracy=69.5652	min_C1=1e-05	min_mew=8
+parkinsons_R	size(A,1)=96	size(A_test,1)=98	accuracy=87.7551	min_C1=100000	min_mew=2
+molec-biol-promoter_R	size(A,1)=52	size(A_test,1)=54	accuracy=75.9259	min_C1=0.0001	min_mew=32

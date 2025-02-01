@@ -1,0 +1,15 @@
+iono	accuracy=88.6364	min_C1=1e-05	min_C2=10	alpha_d=1.09761	mew=8	k=2	sensitivity=0.963504	specificity=0.615385	training_time=0.236105
+wdbc	accuracy=98.2456	min_C1=0.1	min_C2=100	alpha_d=0.723596	mew=32	k=1	sensitivity=0.990826	specificity=0.955224	training_time=0.386822
+wpbc	accuracy=81.6327	min_C1=10	min_C2=100	alpha_d=1.14455	mew=8	k=1	sensitivity=0.15	specificity=0.987179	training_time=0.0278707
+heart-stat	accuracy=86.0294	min_C1=0.1	min_C2=100	alpha_d=0.287613	mew=32	k=9	sensitivity=0.923077	specificity=0.775862	training_time=0.045473
+pima	accuracy=78.4416	min_C1=10	min_C2=1000	alpha_d=0.697342	mew=16	k=3	sensitivity=0.533835	specificity=0.916667	training_time=0.389934
+aus	accuracy=87.2832	min_C1=0.01	min_C2=1000	alpha_d=1.1495	mew=4	k=9	sensitivity=0.89404	specificity=0.85641	training_time=0.150681
+sonar	accuracy=78.0952	min_C1=1e-05	min_C2=1e-05	alpha_d=1.00481	mew=4	k=2	sensitivity=0.717391	specificity=0.830508	training_time=0.0316155
+crossplane130	accuracy=100	min_C1=10	min_C2=1e-05	alpha_d=0.901814	mew=2	k=4	sensitivity=1	specificity=1	training_time=0.0092683
+crossplane150	accuracy=100	min_C1=10	min_C2=1e-05	alpha_d=0.883228	mew=2	k=5	sensitivity=1	specificity=1	training_time=0.0152247
+brwisconsin	accuracy=97.6608	min_C1=1e-05	min_C2=100	alpha_d=1.09447	mew=4	k=1	sensitivity=0.980843	specificity=0.962963	training_time=0.183642
+vehicle 1	accuracy=78.7736	min_C1=1000	min_C2=10	alpha_d=1.02488	mew=2	k=4	sensitivity=0.521008	specificity=0.891803	training_time=0.100776
+vehicle2	accuracy=97.8774	min_C1=10	min_C2=1e-05	alpha_d=1.05157	mew=16	k=7	sensitivity=0.958763	specificity=0.984709	training_time=0.809193
+cleve	accuracy=83.2215	min_C1=100	min_C2=1000	alpha_d=1.10342	mew=4	k=2	sensitivity=0.714286	specificity=0.936709	training_time=0.0259505
+votes	accuracy=94.4954	min_C1=10000	min_C2=1e-05	alpha_d=0.837126	mew=8	k=8	sensitivity=0.988506	specificity=0.916031	training_time=0.0719343
+transfusion	accuracy=85.3333	min_C1=10	min_C2=100	alpha_d=0.846381	mew=16	k=9	sensitivity=0.402985	specificity=0.951299	training_time=0.30368

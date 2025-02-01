@@ -1,0 +1,36 @@
+iono	accuracy=88.6364	min_C1=1000	min_C2=1000	alpha_d=1.11177	mew=4	sensitivity=0.963504	specificity=0.615385	training_time=1.03014
+wdbc	accuracy=98.9474	min_C1=10	min_C2=1e-05	alpha_d=1.01817	mew=2	sensitivity=0.990826	specificity=0.985075	training_time=0.0870576
+wpbc	accuracy=78.5714	min_C1=10	min_C2=100	alpha_d=0.562749	mew=32	sensitivity=0	specificity=0.987179	training_time=0.137297
+heart-stat	accuracy=86.0294	min_C1=1e-05	min_C2=10	alpha_d=1.09597	mew=4	sensitivity=0.935897	specificity=0.758621	training_time=0.0320807
+pima	accuracy=77.6623	min_C1=1e-05	min_C2=100	alpha_d=1.06916	mew=2	sensitivity=0.586466	specificity=0.876984	training_time=0.0925772
+aus	accuracy=86.4162	min_C1=10000	min_C2=10000	alpha_d=1.01777	mew=2	sensitivity=0.874172	specificity=0.85641	training_time=0.0560094
+bupa or liver-disorders	accuracy=43.3526	min_C1=100	min_C2=100000	alpha_d=1.22123	mew=4	sensitivity=1	specificity=0	training_time=0.0916544
+sonar	accuracy=72.381	min_C1=10	min_C2=1e-05	alpha_d=1.00481	mew=4	sensitivity=0.673913	specificity=0.762712	training_time=0.0352995
+cmc	accuracy=52.3745	min_C1=1000	min_C2=1e-05	alpha_d=0.282913	mew=32	sensitivity=0.472275	specificity=0.649533	training_time=2.78187
+crossplane130	accuracy=100	min_C1=1e-05	min_C2=1e-05	alpha_d=0.901814	mew=2	sensitivity=1	specificity=1	training_time=0.0243201
+crossplane150	accuracy=100	min_C1=1e-05	min_C2=1e-05	alpha_d=0.883228	mew=2	sensitivity=1	specificity=1	training_time=0.024088
+brwisconsin	accuracy=98.538	min_C1=10000	min_C2=1e-05	alpha_d=1.09447	mew=4	sensitivity=0.992337	specificity=0.962963	training_time=0.2094
+vehicle 1	accuracy=77.1226	min_C1=0.1	min_C2=100	alpha_d=1.02488	mew=2	sensitivity=0.453782	specificity=0.895082	training_time=0.0771946
+vehicle2	accuracy=96.934	min_C1=0.1	min_C2=10	alpha_d=1.15259	mew=4	sensitivity=0.979381	specificity=0.966361	training_time=0.30192
+cleve	accuracy=80.5369	min_C1=100	min_C2=1e-05	alpha_d=0.929076	mew=8	sensitivity=0.714286	specificity=0.886076	training_time=0.0762196
+haberman	accuracy=72.7273	min_C1=1e-05	min_C2=10	alpha_d=1.23022	mew=4	sensitivity=1	specificity=0	training_time=0.122318
+votes	accuracy=94.4954	min_C1=1e-05	min_C2=1000	alpha_d=1.02731	mew=2	sensitivity=0.988506	specificity=0.916031	training_time=0.0311816
+transfusion	accuracy=82.1333	min_C1=10000	min_C2=10000	alpha_d=1.24752	mew=8	sensitivity=0	specificity=1	training_time=0.419473
+checkerboard_Data	accuracy=86.4162	min_C1=10000	min_C2=10000	alpha_d=1.01777	mew=2	sensitivity=0.874172	specificity=0.85641	training_time=0.0530205
+monk2	accuracy=64.1196	min_C1=1e-05	min_C2=100	alpha_d=0.968889	mew=4	sensitivity=0	specificity=1	training_time=0.113898
+monk3	accuracy=82.0144	min_C1=100	min_C2=10	alpha_d=1.04078	mew=4	sensitivity=0.875	specificity=0.761194	training_time=0.127109
+ripley	accuracy=89.4569	min_C1=1000	min_C2=1e-05	alpha_d=0.451971	mew=8	sensitivity=0.895062	specificity=0.89404	training_time=0.902781
+acute-inflammation_R	accuracy=100	min_C1=1e-05	min_C2=1e-05	alpha_d=0.943397	mew=2	sensitivity=1	specificity=1	training_time=0.280095
+acute-nephritis_R	accuracy=100	min_C1=1e-05	min_C2=1e-05	alpha_d=0.993141	mew=2	sensitivity=1	specificity=1	training_time=0.0480185
+breast-cancer_R	accuracy=70.1389	min_C1=1000	min_C2=10	alpha_d=0.241034	mew=32	sensitivity=0.363636	specificity=0.85	training_time=0.153527
+breast-cancer-wisc_R	accuracy=96.8571	min_C1=1000	min_C2=1e-05	alpha_d=1.27358	mew=2	sensitivity=0.966942	specificity=0.969432	training_time=0.191314
+breast-cancer-wisc-prog_R	accuracy=66	min_C1=100	min_C2=1e-05	alpha_d=0.761602	mew=16	sensitivity=0.333333	specificity=0.731707	training_time=0.0621445
+credit-approval_R	accuracy=87.2832	min_C1=1e-05	min_C2=0.1	alpha_d=0.52954	mew=32	sensitivity=0.830688	specificity=0.923567	training_time=0.541646
+echocardiogram_R	accuracy=84.8485	min_C1=0.01	min_C2=10	alpha_d=1.04364	mew=2	sensitivity=0.55	specificity=0.978261	training_time=0.0189004
+haberman-survival_R	accuracy=76.6234	min_C1=100	min_C2=10	alpha_d=1.15117	mew=2	sensitivity=0.0277778	specificity=0.991525	training_time=0.0486361
+heart-hungarian_R	accuracy=83.1081	min_C1=1000	min_C2=1e-05	alpha_d=0.247275	mew=32	sensitivity=0.769231	specificity=0.864583	training_time=0.0658434
+hepatitis_R	accuracy=84.6154	min_C1=100	min_C2=100	alpha_d=1.00034	mew=2	sensitivity=0.873016	specificity=0.733333	training_time=0.0246329
+mammographic_R	accuracy=81.4969	min_C1=1000	min_C2=100000	alpha_d=1.1658	mew=2	sensitivity=0.79646	specificity=0.831373	training_time=0.249885
+planning_R	accuracy=77.1739	min_C1=1e-05	min_C2=100	alpha_d=1.01507	mew=2	sensitivity=0	specificity=1	training_time=0.0195537
+parkinsons_R	accuracy=76.5306	min_C1=0.1	min_C2=1e-05	alpha_d=1.01821	mew=2	sensitivity=0.766234	specificity=0.761905	training_time=0.0212807
+molec-biol-promoter_R	accuracy=59.2593	min_C1=10	min_C2=100	alpha_d=0.921018	mew=8	sensitivity=0.608696	specificity=0.580645	training_time=0.018165

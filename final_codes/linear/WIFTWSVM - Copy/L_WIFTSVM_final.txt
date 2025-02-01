@@ -1,0 +1,198 @@
+iono	size(A,1)=174	size(A_test,1)=176	accuracy=86.9318	min_C1=1e-05	min_C2=10	alpha_d=1.09761	mew=8	k=1
+iono	size(A,1)=174	size(A_test,1)=176	accuracy=88.6364	min_C1=1e-05	min_C2=10	alpha_d=1.09761	mew=8	k=2
+iono	size(A,1)=174	size(A_test,1)=176	accuracy=79.5455	min_C1=1000	min_C2=10	alpha_d=1.03349	mew=2	k=3
+iono	size(A,1)=174	size(A_test,1)=176	accuracy=82.3864	min_C1=10	min_C2=10	alpha_d=1.09761	mew=8	k=4
+iono	size(A,1)=174	size(A_test,1)=176	accuracy=80.6818	min_C1=10000	min_C2=10	alpha_d=1.03349	mew=2	k=5
+iono	size(A,1)=174	size(A_test,1)=176	accuracy=81.8182	min_C1=10000	min_C2=10	alpha_d=1.03349	mew=2	k=6
+iono	size(A,1)=174	size(A_test,1)=176	accuracy=81.25	min_C1=10000	min_C2=10	alpha_d=1.03349	mew=2	k=7
+iono	size(A,1)=174	size(A_test,1)=176	accuracy=83.5227	min_C1=10	min_C2=10	alpha_d=1.09761	mew=8	k=8
+iono	size(A,1)=174	size(A_test,1)=176	accuracy=83.5227	min_C1=10	min_C2=10	alpha_d=1.09761	mew=8	k=9
+wdbc	size(A,1)=283	size(A_test,1)=285	accuracy=98.2456	min_C1=0.1	min_C2=100	alpha_d=0.723596	mew=32	k=1
+wdbc	size(A,1)=283	size(A_test,1)=285	accuracy=97.8947	min_C1=0.1	min_C2=100	alpha_d=0.723596	mew=32	k=2
+wdbc	size(A,1)=283	size(A_test,1)=285	accuracy=97.8947	min_C1=0.1	min_C2=100	alpha_d=0.723596	mew=32	k=3
+wdbc	size(A,1)=283	size(A_test,1)=285	accuracy=97.193	min_C1=0.1	min_C2=100	alpha_d=0.723596	mew=32	k=4
+wdbc	size(A,1)=283	size(A_test,1)=285	accuracy=94.386	min_C1=100	min_C2=10	alpha_d=1.01817	mew=2	k=5
+wdbc	size(A,1)=283	size(A_test,1)=285	accuracy=94.7368	min_C1=100	min_C2=10	alpha_d=1.01817	mew=2	k=6
+wdbc	size(A,1)=283	size(A_test,1)=285	accuracy=94.7368	min_C1=100	min_C2=10	alpha_d=1.01817	mew=2	k=7
+wdbc	size(A,1)=283	size(A_test,1)=285	accuracy=95.4386	min_C1=100	min_C2=10	alpha_d=1.01817	mew=2	k=8
+wdbc	size(A,1)=283	size(A_test,1)=285	accuracy=96.1404	min_C1=100	min_C2=10	alpha_d=1.01817	mew=2	k=9
+wpbc	size(A,1)=96	size(A_test,1)=98	accuracy=81.6327	min_C1=10	min_C2=100	alpha_d=1.14455	mew=8	k=1
+wpbc	size(A,1)=96	size(A_test,1)=98	accuracy=81.6327	min_C1=10	min_C2=100	alpha_d=1.14455	mew=8	k=2
+wpbc	size(A,1)=96	size(A_test,1)=98	accuracy=78.5714	min_C1=10	min_C2=10	alpha_d=1.14455	mew=8	k=3
+wpbc	size(A,1)=96	size(A_test,1)=98	accuracy=75.5102	min_C1=10	min_C2=10	alpha_d=1.14455	mew=8	k=4
+wpbc	size(A,1)=96	size(A_test,1)=98	accuracy=76.5306	min_C1=10	min_C2=10	alpha_d=1.14455	mew=8	k=5
+wpbc	size(A,1)=96	size(A_test,1)=98	accuracy=70.4082	min_C1=10	min_C2=10	alpha_d=1.14455	mew=8	k=6
+wpbc	size(A,1)=96	size(A_test,1)=98	accuracy=71.4286	min_C1=10	min_C2=10	alpha_d=1.14455	mew=8	k=7
+wpbc	size(A,1)=96	size(A_test,1)=98	accuracy=73.4694	min_C1=10	min_C2=10	alpha_d=1.14455	mew=8	k=8
+wpbc	size(A,1)=96	size(A_test,1)=98	accuracy=76.5306	min_C1=10	min_C2=10	alpha_d=1.14455	mew=8	k=9
+heart-stat	size(A,1)=134	size(A_test,1)=136	accuracy=83.8235	min_C1=10	min_C2=100	alpha_d=1.09597	mew=4	k=1
+heart-stat	size(A,1)=134	size(A_test,1)=136	accuracy=84.5588	min_C1=0.1	min_C2=100	alpha_d=0.287613	mew=32	k=2
+heart-stat	size(A,1)=134	size(A_test,1)=136	accuracy=84.5588	min_C1=0.1	min_C2=100	alpha_d=0.287613	mew=32	k=3
+heart-stat	size(A,1)=134	size(A_test,1)=136	accuracy=84.5588	min_C1=0.1	min_C2=100	alpha_d=0.287613	mew=32	k=4
+heart-stat	size(A,1)=134	size(A_test,1)=136	accuracy=85.2941	min_C1=0.1	min_C2=100	alpha_d=0.287613	mew=32	k=5
+heart-stat	size(A,1)=134	size(A_test,1)=136	accuracy=85.2941	min_C1=0.1	min_C2=100	alpha_d=0.287613	mew=32	k=6
+heart-stat	size(A,1)=134	size(A_test,1)=136	accuracy=85.2941	min_C1=0.1	min_C2=100	alpha_d=0.287613	mew=32	k=7
+heart-stat	size(A,1)=134	size(A_test,1)=136	accuracy=85.2941	min_C1=0.1	min_C2=100	alpha_d=0.287613	mew=32	k=8
+heart-stat	size(A,1)=134	size(A_test,1)=136	accuracy=86.0294	min_C1=0.1	min_C2=100	alpha_d=0.287613	mew=32	k=9
+pima	size(A,1)=383	size(A_test,1)=385	accuracy=76.8831	min_C1=10	min_C2=1000	alpha_d=1.10891	mew=8	k=1
+pima	size(A,1)=383	size(A_test,1)=385	accuracy=77.9221	min_C1=10	min_C2=1000	alpha_d=1.10891	mew=8	k=2
+pima	size(A,1)=383	size(A_test,1)=385	accuracy=78.4416	min_C1=10	min_C2=1000	alpha_d=0.697342	mew=16	k=3
+pima	size(A,1)=383	size(A_test,1)=385	accuracy=78.4416	min_C1=10	min_C2=1000	alpha_d=0.697342	mew=16	k=4
+pima	size(A,1)=383	size(A_test,1)=385	accuracy=78.4416	min_C1=10	min_C2=1000	alpha_d=0.697342	mew=16	k=5
+pima	size(A,1)=383	size(A_test,1)=385	accuracy=78.4416	min_C1=10	min_C2=1000	alpha_d=0.697342	mew=16	k=6
+pima	size(A,1)=383	size(A_test,1)=385	accuracy=78.1818	min_C1=10	min_C2=1000	alpha_d=0.697342	mew=16	k=7
+pima	size(A,1)=383	size(A_test,1)=385	accuracy=78.4416	min_C1=10	min_C2=1000	alpha_d=0.697342	mew=16	k=8
+pima	size(A,1)=383	size(A_test,1)=385	accuracy=78.4416	min_C1=100	min_C2=10000	alpha_d=1.10891	mew=8	k=9
+aus	size(A,1)=344	size(A_test,1)=346	accuracy=84.6821	min_C1=1e-05	min_C2=1000	alpha_d=1.1495	mew=4	k=1
+aus	size(A,1)=344	size(A_test,1)=346	accuracy=86.1272	min_C1=1e-05	min_C2=1000	alpha_d=1.1495	mew=4	k=2
+aus	size(A,1)=344	size(A_test,1)=346	accuracy=85.5491	min_C1=1e-05	min_C2=1000	alpha_d=1.1495	mew=4	k=3
+aus	size(A,1)=344	size(A_test,1)=346	accuracy=84.3931	min_C1=1e-05	min_C2=1000	alpha_d=1.1495	mew=4	k=4
+aus	size(A,1)=344	size(A_test,1)=346	accuracy=84.6821	min_C1=1e-05	min_C2=1000	alpha_d=1.1495	mew=4	k=5
+aus	size(A,1)=344	size(A_test,1)=346	accuracy=84.6821	min_C1=1e-05	min_C2=1000	alpha_d=1.1495	mew=4	k=6
+aus	size(A,1)=344	size(A_test,1)=346	accuracy=86.1272	min_C1=0.01	min_C2=1000	alpha_d=1.1495	mew=4	k=7
+aus	size(A,1)=344	size(A_test,1)=346	accuracy=86.7052	min_C1=0.01	min_C2=1000	alpha_d=1.1495	mew=4	k=8
+aus	size(A,1)=344	size(A_test,1)=346	accuracy=87.2832	min_C1=0.01	min_C2=1000	alpha_d=1.1495	mew=4	k=9
+bupa or liver-disorders	size(A,1)=171	size(A_test,1)=173	accuracy=56.6474	min_C1=10000	min_C2=1e-05	alpha_d=1.09579	mew=2	k=1
+bupa or liver-disorders	size(A,1)=171	size(A_test,1)=173	accuracy=58.3815	min_C1=10000	min_C2=1e-05	alpha_d=1.09579	mew=2	k=2
+bupa or liver-disorders	size(A,1)=171	size(A_test,1)=173	accuracy=57.8035	min_C1=10000	min_C2=1e-05	alpha_d=1.09579	mew=2	k=3
+bupa or liver-disorders	size(A,1)=171	size(A_test,1)=173	accuracy=61.8497	min_C1=10000	min_C2=1e-05	alpha_d=1.09579	mew=2	k=4
+bupa or liver-disorders	size(A,1)=171	size(A_test,1)=173	accuracy=67.6301	min_C1=10000	min_C2=1e-05	alpha_d=1.09579	mew=2	k=5
+bupa or liver-disorders	size(A,1)=171	size(A_test,1)=173	accuracy=67.6301	min_C1=10000	min_C2=1e-05	alpha_d=1.09579	mew=2	k=6
+bupa or liver-disorders	size(A,1)=171	size(A_test,1)=173	accuracy=67.6301	min_C1=10000	min_C2=1e-05	alpha_d=1.09579	mew=2	k=7
+bupa or liver-disorders	size(A,1)=171	size(A_test,1)=173	accuracy=65.896	min_C1=10000	min_C2=1e-05	alpha_d=1.09579	mew=2	k=8
+bupa or liver-disorders	size(A,1)=171	size(A_test,1)=173	accuracy=65.3179	min_C1=10000	min_C2=1e-05	alpha_d=1.09579	mew=2	k=9
+sonar	size(A,1)=103	size(A_test,1)=105	accuracy=76.1905	min_C1=1e-05	min_C2=1e-05	alpha_d=1.00481	mew=4	k=1
+sonar	size(A,1)=103	size(A_test,1)=105	accuracy=78.0952	min_C1=1e-05	min_C2=1e-05	alpha_d=1.00481	mew=4	k=2
+sonar	size(A,1)=103	size(A_test,1)=105	accuracy=76.1905	min_C1=1e-05	min_C2=1e-05	alpha_d=1.00481	mew=4	k=3
+sonar	size(A,1)=103	size(A_test,1)=105	accuracy=77.1429	min_C1=1e-05	min_C2=1e-05	alpha_d=1.00481	mew=4	k=4
+sonar	size(A,1)=103	size(A_test,1)=105	accuracy=74.2857	min_C1=1e-05	min_C2=1e-05	alpha_d=1.00481	mew=4	k=5
+sonar	size(A,1)=103	size(A_test,1)=105	accuracy=71.4286	min_C1=0.0001	min_C2=0.01	alpha_d=0.586677	mew=32	k=6
+sonar	size(A,1)=103	size(A_test,1)=105	accuracy=71.4286	min_C1=0.0001	min_C2=0.01	alpha_d=0.586677	mew=32	k=7
+sonar	size(A,1)=103	size(A_test,1)=105	accuracy=73.3333	min_C1=0.0001	min_C2=0.01	alpha_d=0.586677	mew=32	k=8
+sonar	size(A,1)=103	size(A_test,1)=105	accuracy=73.3333	min_C1=0.0001	min_C2=0.01	alpha_d=0.586677	mew=32	k=9
+cmc	size(A,1)=735	size(A_test,1)=737	accuracy=50.2035	min_C1=0.01	min_C2=1000	alpha_d=0.282913	mew=32	k=1
+cmc	size(A,1)=735	size(A_test,1)=737	accuracy=55.3596	min_C1=0.01	min_C2=1000	alpha_d=0.282913	mew=32	k=2
+cmc	size(A,1)=735	size(A_test,1)=737	accuracy=50.2035	min_C1=10	min_C2=100000	alpha_d=0.282913	mew=32	k=3
+cmc	size(A,1)=735	size(A_test,1)=737	accuracy=51.4247	min_C1=0.1	min_C2=10000	alpha_d=0.282913	mew=32	k=4
+cmc	size(A,1)=735	size(A_test,1)=737	accuracy=51.5604	min_C1=10	min_C2=10000	alpha_d=0.282913	mew=32	k=5
+cmc	size(A,1)=735	size(A_test,1)=737	accuracy=53.3243	min_C1=10	min_C2=10000	alpha_d=0.540003	mew=16	k=6
+crossplane130	size(A,1)=64	size(A_test,1)=66	accuracy=98.4848	min_C1=1e-05	min_C2=1000	alpha_d=0.901814	mew=2	k=1
+crossplane130	size(A,1)=64	size(A_test,1)=66	accuracy=98.4848	min_C1=10	min_C2=1000	alpha_d=0.180976	mew=16	k=2
+crossplane130	size(A,1)=64	size(A_test,1)=66	accuracy=98.4848	min_C1=10	min_C2=1e-05	alpha_d=0.901814	mew=2	k=3
+crossplane130	size(A,1)=64	size(A_test,1)=66	accuracy=100	min_C1=10	min_C2=1e-05	alpha_d=0.901814	mew=2	k=4
+crossplane130	size(A,1)=64	size(A_test,1)=66	accuracy=100	min_C1=0.1	min_C2=1e-05	alpha_d=0.901814	mew=2	k=5
+crossplane130	size(A,1)=64	size(A_test,1)=66	accuracy=100	min_C1=0.1	min_C2=1e-05	alpha_d=0.901814	mew=2	k=6
+crossplane130	size(A,1)=64	size(A_test,1)=66	accuracy=100	min_C1=0.1	min_C2=1e-05	alpha_d=0.901814	mew=2	k=7
+crossplane130	size(A,1)=64	size(A_test,1)=66	accuracy=100	min_C1=0.1	min_C2=1e-05	alpha_d=0.901814	mew=2	k=8
+crossplane130	size(A,1)=64	size(A_test,1)=66	accuracy=100	min_C1=0.1	min_C2=1e-05	alpha_d=0.901814	mew=2	k=9
+crossplane150	size(A,1)=74	size(A_test,1)=76	accuracy=84.2105	min_C1=10	min_C2=1e-05	alpha_d=0.883228	mew=2	k=1
+crossplane150	size(A,1)=74	size(A_test,1)=76	accuracy=92.1053	min_C1=10	min_C2=1e-05	alpha_d=0.883228	mew=2	k=2
+crossplane150	size(A,1)=74	size(A_test,1)=76	accuracy=89.4737	min_C1=10	min_C2=1e-05	alpha_d=0.663633	mew=4	k=3
+crossplane150	size(A,1)=74	size(A_test,1)=76	accuracy=97.3684	min_C1=10	min_C2=1e-05	alpha_d=0.883228	mew=2	k=4
+crossplane150	size(A,1)=74	size(A_test,1)=76	accuracy=100	min_C1=10	min_C2=1e-05	alpha_d=0.883228	mew=2	k=5
+crossplane150	size(A,1)=74	size(A_test,1)=76	accuracy=100	min_C1=10	min_C2=1e-05	alpha_d=0.883228	mew=2	k=6
+crossplane150	size(A,1)=74	size(A_test,1)=76	accuracy=97.3684	min_C1=10	min_C2=1e-05	alpha_d=0.663633	mew=4	k=7
+crossplane150	size(A,1)=74	size(A_test,1)=76	accuracy=98.6842	min_C1=10	min_C2=1e-05	alpha_d=0.663633	mew=4	k=8
+crossplane150	size(A,1)=74	size(A_test,1)=76	accuracy=100	min_C1=10	min_C2=1e-05	alpha_d=0.663633	mew=4	k=9
+brwisconsin	size(A,1)=340	size(A_test,1)=342	accuracy=97.6608	min_C1=1e-05	min_C2=100	alpha_d=1.09447	mew=4	k=1
+brwisconsin	size(A,1)=340	size(A_test,1)=342	accuracy=97.6608	min_C1=1e-05	min_C2=100	alpha_d=1.09447	mew=4	k=2
+brwisconsin	size(A,1)=340	size(A_test,1)=342	accuracy=97.6608	min_C1=1e-05	min_C2=100	alpha_d=1.09447	mew=4	k=3
+brwisconsin	size(A,1)=340	size(A_test,1)=342	accuracy=97.6608	min_C1=1e-05	min_C2=100	alpha_d=1.09447	mew=4	k=4
+brwisconsin	size(A,1)=340	size(A_test,1)=342	accuracy=96.7836	min_C1=1e-05	min_C2=100	alpha_d=1.09447	mew=4	k=5
+brwisconsin	size(A,1)=340	size(A_test,1)=342	accuracy=95.9064	min_C1=1e-05	min_C2=100	alpha_d=1.09447	mew=4	k=6
+brwisconsin	size(A,1)=340	size(A_test,1)=342	accuracy=95.0292	min_C1=1e-05	min_C2=100	alpha_d=1.09447	mew=4	k=7
+brwisconsin	size(A,1)=340	size(A_test,1)=342	accuracy=93.5673	min_C1=1e-05	min_C2=100	alpha_d=1.09447	mew=4	k=8
+brwisconsin	size(A,1)=340	size(A_test,1)=342	accuracy=92.9825	min_C1=1e-05	min_C2=100	alpha_d=1.09447	mew=4	k=9
+vehicle 1	size(A,1)=422	size(A_test,1)=424	accuracy=75	min_C1=1000	min_C2=100	alpha_d=1.02488	mew=2	k=1
+vehicle 1	size(A,1)=422	size(A_test,1)=424	accuracy=78.066	min_C1=1000	min_C2=100	alpha_d=1.02488	mew=2	k=2
+vehicle 1	size(A,1)=422	size(A_test,1)=424	accuracy=77.5943	min_C1=1000	min_C2=100	alpha_d=1.02488	mew=2	k=3
+vehicle 1	size(A,1)=422	size(A_test,1)=424	accuracy=78.7736	min_C1=1000	min_C2=10	alpha_d=1.02488	mew=2	k=4
+vehicle 1	size(A,1)=422	size(A_test,1)=424	accuracy=77.5943	min_C1=1000	min_C2=10	alpha_d=1.02488	mew=2	k=5
+vehicle 1	size(A,1)=422	size(A_test,1)=424	accuracy=76.4151	min_C1=1000	min_C2=10	alpha_d=1.02488	mew=2	k=6
+vehicle 1	size(A,1)=422	size(A_test,1)=424	accuracy=76.4151	min_C1=1000	min_C2=10	alpha_d=1.02488	mew=2	k=7
+vehicle 1	size(A,1)=422	size(A_test,1)=424	accuracy=76.1792	min_C1=1000	min_C2=10	alpha_d=1.02488	mew=2	k=8
+vehicle 1	size(A,1)=422	size(A_test,1)=424	accuracy=75.4717	min_C1=1000	min_C2=10	alpha_d=1.02488	mew=2	k=9
+vehicle2	size(A,1)=422	size(A_test,1)=424	accuracy=97.1698	min_C1=100	min_C2=0.001	alpha_d=1.04722	mew=2	k=1
+vehicle2	size(A,1)=422	size(A_test,1)=424	accuracy=95.9906	min_C1=100	min_C2=0.001	alpha_d=1.04722	mew=2	k=2
+vehicle2	size(A,1)=422	size(A_test,1)=424	accuracy=93.8679	min_C1=100	min_C2=0.001	alpha_d=1.04722	mew=2	k=3
+vehicle2	size(A,1)=422	size(A_test,1)=424	accuracy=97.1698	min_C1=10	min_C2=1e-05	alpha_d=1.25375	mew=8	k=4
+vehicle2	size(A,1)=422	size(A_test,1)=424	accuracy=96.934	min_C1=10	min_C2=1e-05	alpha_d=1.05157	mew=16	k=5
+vehicle2	size(A,1)=422	size(A_test,1)=424	accuracy=97.4057	min_C1=10	min_C2=1e-05	alpha_d=1.05157	mew=16	k=6
+vehicle2	size(A,1)=422	size(A_test,1)=424	accuracy=97.8774	min_C1=10	min_C2=1e-05	alpha_d=1.05157	mew=16	k=7
+vehicle2	size(A,1)=422	size(A_test,1)=424	accuracy=97.1698	min_C1=10	min_C2=1e-05	alpha_d=1.05157	mew=16	k=8
+vehicle2	size(A,1)=422	size(A_test,1)=424	accuracy=97.1698	min_C1=10	min_C2=1e-05	alpha_d=1.05157	mew=16	k=9
+cleve	size(A,1)=147	size(A_test,1)=149	accuracy=81.2081	min_C1=0.1	min_C2=10	alpha_d=1.01029	mew=2	k=1
+cleve	size(A,1)=147	size(A_test,1)=149	accuracy=83.2215	min_C1=100	min_C2=1000	alpha_d=1.10342	mew=4	k=2
+cleve	size(A,1)=147	size(A_test,1)=149	accuracy=80.5369	min_C1=10	min_C2=1000	alpha_d=1.01029	mew=2	k=3
+cleve	size(A,1)=147	size(A_test,1)=149	accuracy=81.2081	min_C1=10	min_C2=1000	alpha_d=1.01029	mew=2	k=4
+cleve	size(A,1)=147	size(A_test,1)=149	accuracy=81.2081	min_C1=10	min_C2=1000	alpha_d=1.01029	mew=2	k=5
+cleve	size(A,1)=147	size(A_test,1)=149	accuracy=82.5503	min_C1=10	min_C2=1000	alpha_d=1.01029	mew=2	k=6
+cleve	size(A,1)=147	size(A_test,1)=149	accuracy=81.8792	min_C1=10	min_C2=1000	alpha_d=1.01029	mew=2	k=7
+cleve	size(A,1)=147	size(A_test,1)=149	accuracy=82.5503	min_C1=10	min_C2=1000	alpha_d=1.01029	mew=2	k=8
+cleve	size(A,1)=147	size(A_test,1)=149	accuracy=82.5503	min_C1=10	min_C2=1000	alpha_d=1.01029	mew=2	k=9
+haberman	size(A,1)=152	size(A_test,1)=154	accuracy=70.1299	min_C1=0.1	min_C2=1e-05	alpha_d=1.23022	mew=4	k=1
+haberman	size(A,1)=152	size(A_test,1)=154	accuracy=67.5325	min_C1=0.1	min_C2=10	alpha_d=0.967472	mew=8	k=2
+haberman	size(A,1)=152	size(A_test,1)=154	accuracy=57.1429	min_C1=0.1	min_C2=10	alpha_d=0.967472	mew=8	k=3
+haberman	size(A,1)=152	size(A_test,1)=154	accuracy=46.7532	min_C1=0.1	min_C2=10	alpha_d=0.967472	mew=8	k=4
+haberman	size(A,1)=152	size(A_test,1)=154	accuracy=38.961	min_C1=0.1	min_C2=10	alpha_d=0.967472	mew=8	k=5
+haberman	size(A,1)=152	size(A_test,1)=154	accuracy=37.6623	min_C1=0.1	min_C2=10	alpha_d=0.967472	mew=8	k=6
+haberman	size(A,1)=152	size(A_test,1)=154	accuracy=67.5325	min_C1=0.01	min_C2=10	alpha_d=0.56279	mew=16	k=7
+haberman	size(A,1)=152	size(A_test,1)=154	accuracy=62.987	min_C1=0.01	min_C2=10	alpha_d=0.56279	mew=16	k=8
+haberman	size(A,1)=152	size(A_test,1)=154	accuracy=59.0909	min_C1=0.01	min_C2=10	alpha_d=0.56279	mew=16	k=9
+votes	size(A,1)=216	size(A_test,1)=218	accuracy=94.0367	min_C1=0.1	min_C2=1e-05	alpha_d=1.07487	mew=4	k=1
+votes	size(A,1)=216	size(A_test,1)=218	accuracy=94.0367	min_C1=0.1	min_C2=1e-05	alpha_d=1.07487	mew=4	k=2
+votes	size(A,1)=216	size(A_test,1)=218	accuracy=94.0367	min_C1=0.1	min_C2=1e-05	alpha_d=1.07487	mew=4	k=3
+votes	size(A,1)=216	size(A_test,1)=218	accuracy=94.0367	min_C1=0.1	min_C2=1e-05	alpha_d=1.07487	mew=4	k=4
+votes	size(A,1)=216	size(A_test,1)=218	accuracy=94.0367	min_C1=0.1	min_C2=1e-05	alpha_d=1.07487	mew=4	k=5
+votes	size(A,1)=216	size(A_test,1)=218	accuracy=94.0367	min_C1=0.1	min_C2=1e-05	alpha_d=1.07487	mew=4	k=6
+votes	size(A,1)=216	size(A_test,1)=218	accuracy=94.0367	min_C1=0.1	min_C2=1e-05	alpha_d=1.07487	mew=4	k=7
+votes	size(A,1)=216	size(A_test,1)=218	accuracy=94.4954	min_C1=10000	min_C2=1e-05	alpha_d=0.837126	mew=8	k=8
+votes	size(A,1)=216	size(A_test,1)=218	accuracy=94.4954	min_C1=10000	min_C2=1e-05	alpha_d=0.837126	mew=8	k=9
+transfusion	size(A,1)=373	size(A_test,1)=375	accuracy=82.9333	min_C1=1000	min_C2=100000	alpha_d=0.846381	mew=16	k=1
+transfusion	size(A,1)=373	size(A_test,1)=375	accuracy=82.9333	min_C1=100	min_C2=10000	alpha_d=0.846381	mew=16	k=2
+transfusion	size(A,1)=373	size(A_test,1)=375	accuracy=84	min_C1=10	min_C2=1000	alpha_d=0.846381	mew=16	k=3
+transfusion	size(A,1)=373	size(A_test,1)=375	accuracy=83.2	min_C1=10	min_C2=1000	alpha_d=0.846381	mew=16	k=4
+transfusion	size(A,1)=373	size(A_test,1)=375	accuracy=84.5333	min_C1=10	min_C2=100	alpha_d=0.846381	mew=16	k=5
+transfusion	size(A,1)=373	size(A_test,1)=375	accuracy=85.0667	min_C1=10	min_C2=100	alpha_d=0.846381	mew=16	k=6
+transfusion	size(A,1)=373	size(A_test,1)=375	accuracy=84.8	min_C1=10	min_C2=100	alpha_d=0.846381	mew=16	k=7
+transfusion	size(A,1)=373	size(A_test,1)=375	accuracy=85.0667	min_C1=10	min_C2=100	alpha_d=0.846381	mew=16	k=8
+transfusion	size(A,1)=373	size(A_test,1)=375	accuracy=85.3333	min_C1=10	min_C2=100	alpha_d=0.846381	mew=16	k=9
+checkerboard_Data	size(A,1)=344	size(A_test,1)=346	accuracy=84.6821	min_C1=1e-05	min_C2=1000	alpha_d=1.1495	mew=4	k=1
+checkerboard_Data	size(A,1)=344	size(A_test,1)=346	accuracy=86.1272	min_C1=1e-05	min_C2=1000	alpha_d=1.1495	mew=4	k=2
+checkerboard_Data	size(A,1)=344	size(A_test,1)=346	accuracy=85.5491	min_C1=1e-05	min_C2=1000	alpha_d=1.1495	mew=4	k=3
+checkerboard_Data	size(A,1)=344	size(A_test,1)=346	accuracy=84.3931	min_C1=1e-05	min_C2=1000	alpha_d=1.1495	mew=4	k=4
+checkerboard_Data	size(A,1)=344	size(A_test,1)=346	accuracy=84.6821	min_C1=1e-05	min_C2=1000	alpha_d=1.1495	mew=4	k=5
+checkerboard_Data	size(A,1)=344	size(A_test,1)=346	accuracy=84.6821	min_C1=1e-05	min_C2=1000	alpha_d=1.1495	mew=4	k=6
+checkerboard_Data	size(A,1)=344	size(A_test,1)=346	accuracy=86.1272	min_C1=0.01	min_C2=1000	alpha_d=1.1495	mew=4	k=7
+checkerboard_Data	size(A,1)=344	size(A_test,1)=346	accuracy=86.7052	min_C1=0.01	min_C2=1000	alpha_d=1.1495	mew=4	k=8
+checkerboard_Data	size(A,1)=344	size(A_test,1)=346	accuracy=87.2832	min_C1=0.01	min_C2=1000	alpha_d=1.1495	mew=4	k=9
+monk2	size(A,1)=299	size(A_test,1)=301	accuracy=35.8804	min_C1=1e-05	min_C2=0.001	alpha_d=0.661902	mew=8	k=1
+monk2	size(A,1)=299	size(A_test,1)=301	accuracy=35.8804	min_C1=1e-05	min_C2=0.01	alpha_d=0.661902	mew=8	k=2
+monk2	size(A,1)=299	size(A_test,1)=301	accuracy=35.8804	min_C1=1e-05	min_C2=0.01	alpha_d=0.661902	mew=8	k=3
+monk2	size(A,1)=299	size(A_test,1)=301	accuracy=35.8804	min_C1=1e-05	min_C2=0.01	alpha_d=0.661902	mew=8	k=4
+monk2	size(A,1)=299	size(A_test,1)=301	accuracy=35.8804	min_C1=1e-05	min_C2=0.01	alpha_d=0.661902	mew=8	k=5
+monk2	size(A,1)=299	size(A_test,1)=301	accuracy=35.8804	min_C1=1e-05	min_C2=0.01	alpha_d=0.661902	mew=8	k=6
+monk2	size(A,1)=299	size(A_test,1)=301	accuracy=35.8804	min_C1=1e-05	min_C2=0.01	alpha_d=0.661902	mew=8	k=7
+monk2	size(A,1)=299	size(A_test,1)=301	accuracy=35.8804	min_C1=1e-05	min_C2=0.01	alpha_d=0.661902	mew=8	k=8
+monk2	size(A,1)=299	size(A_test,1)=301	accuracy=35.8804	min_C1=1e-05	min_C2=0.01	alpha_d=0.661902	mew=8	k=9
+monk3	size(A,1)=276	size(A_test,1)=278	accuracy=80.5755	min_C1=10	min_C2=1e-05	alpha_d=1.04078	mew=4	k=1
+monk3	size(A,1)=276	size(A_test,1)=278	accuracy=76.259	min_C1=0.01	min_C2=1e-05	alpha_d=1.04078	mew=4	k=2
+monk3	size(A,1)=276	size(A_test,1)=278	accuracy=78.777	min_C1=0.01	min_C2=1e-05	alpha_d=1.04078	mew=4	k=3
+monk3	size(A,1)=276	size(A_test,1)=278	accuracy=78.777	min_C1=0.01	min_C2=1e-05	alpha_d=1.04078	mew=4	k=4
+monk3	size(A,1)=276	size(A_test,1)=278	accuracy=79.8561	min_C1=0.01	min_C2=1e-05	alpha_d=1.04078	mew=4	k=5
+monk3	size(A,1)=276	size(A_test,1)=278	accuracy=73.3813	min_C1=0.001	min_C2=1e-05	alpha_d=1.04078	mew=4	k=6
+monk3	size(A,1)=276	size(A_test,1)=278	accuracy=79.8561	min_C1=0.001	min_C2=1e-05	alpha_d=1.04078	mew=4	k=7
+monk3	size(A,1)=276	size(A_test,1)=278	accuracy=79.1367	min_C1=0.001	min_C2=1e-05	alpha_d=1.04078	mew=4	k=8
+monk3	size(A,1)=276	size(A_test,1)=278	accuracy=79.1367	min_C1=0.001	min_C2=1e-05	alpha_d=1.04078	mew=4	k=9
+vehicle 1	size(A,1)=422	size(A_test,1)=424	accuracy=75	min_C1=1000	min_C2=100	alpha_d=1.02488	mew=2	k=1
+vehicle 1	size(A,1)=422	size(A_test,1)=424	accuracy=78.066	min_C1=1000	min_C2=100	alpha_d=1.02488	mew=2	k=2
+vehicle 1	size(A,1)=422	size(A_test,1)=424	accuracy=77.5943	min_C1=1000	min_C2=100	alpha_d=1.02488	mew=2	k=3
+ripley	size(A,1)=624	size(A_test,1)=626	accuracy=89.2971	min_C1=0.1	min_C2=1000	alpha_d=0.117871	mew=32	k=1
+ripley	size(A,1)=624	size(A_test,1)=626	accuracy=89.1374	min_C1=0.1	min_C2=1000	alpha_d=0.117871	mew=32	k=2
+ripley	size(A,1)=624	size(A_test,1)=626	accuracy=89.6166	min_C1=0.1	min_C2=1000	alpha_d=0.117871	mew=32	k=3
+ripley	size(A,1)=624	size(A_test,1)=626	accuracy=89.9361	min_C1=0.1	min_C2=1000	alpha_d=0.117871	mew=32	k=4
+ripley	size(A,1)=624	size(A_test,1)=626	accuracy=89.4569	min_C1=0.1	min_C2=1000	alpha_d=0.117871	mew=32	k=5
+ripley	size(A,1)=624	size(A_test,1)=626	accuracy=89.2971	min_C1=0.1	min_C2=1000	alpha_d=0.117871	mew=32	k=6
+ripley	size(A,1)=624	size(A_test,1)=626	accuracy=89.2971	min_C1=0.1	min_C2=1000	alpha_d=0.117871	mew=32	k=7
+ripley	size(A,1)=624	size(A_test,1)=626	accuracy=89.2971	min_C1=0.1	min_C2=1000	alpha_d=0.117871	mew=32	k=8
+ripley	size(A,1)=624	size(A_test,1)=626	accuracy=88.6581	min_C1=1e-05	min_C2=1000	alpha_d=0.7978	mew=4	k=9

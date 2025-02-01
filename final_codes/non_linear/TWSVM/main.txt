@@ -1,0 +1,76 @@
+case 1
+file='iono';		min_C1=0.1;	min_mew=32;
+case 2
+file='wdbc';		min_C1=0.1;	min_mew=16;
+case 3
+file='wpbc';		min_C1=0.01;	min_mew=32;
+case 4
+file='heart-stat';	min_C1=0.001;	min_mew=16;
+case 5
+file='pima';min_C1=0.1;	min_mew=32;
+case 6
+file='aus';min_C1=0.1;	min_mew=32;
+case 7
+file='bupa or liver-disorders';	min_C1=10;	min_mew=16;
+case 8
+file='sonar';	min_C1=0.001;	min_mew=4;
+case 9 
+
+file='cmc';	min_C1=100;	min_mew=16;
+case 10
+file='crossplane130';min_C1=1e-05;	min_mew=0.5;
+case 11
+file='crossplane150';		min_C1=1e-05;	min_mew=0.5;
+case 12
+file='brwisconsin';min_C1=0.0001;	min_mew=8;
+case 13
+file='vehicle 1';min_C1=10;	min_mew=16;
+case 14
+file='vehicle2';min_C1=10;	min_mew=16;
+case 15
+file='cleve';	min_C1=0.01;	min_mew=32;
+case 16
+file='haberman';		min_C1=1e-05;	min_mew=16;
+case 17
+file='votes';	min_C1=0.001;	min_mew=16;
+case 18
+file='transfusion';min_C1=0.1;	min_mew=16;
+case 19
+file='checkerboard_Data';	min_C1=0.1;	min_mew=32;
+case 20
+file='monk2';	min_C1=0.01;	min_mew=4;
+case 21
+file='monk3';min_C1=0.1;	min_mew=16;
+case 22
+
+file='ripley';	min_C1=0.1;	min_mew=2;
+case 23
+file='acute-inflammation_R';	min_C1=1e-05;	min_mew=0.5;
+case 24
+file='acute-nephritis_R';	min_C1=1e-05;	min_mew=0.5;
+case 25
+file='breast-cancer_R';	min_C1=0.0001;	min_mew=8;
+casce 26
+file='breast-cancer-wisc_R';min_C1=0.1;	min_mew=32;
+case 27
+file='breast-cancer-wisc-prog_R';	min_C1=1e-05;	min_mew=16;
+case 28
+file='credit-approval_R';min_C1=0.1;	min_mew=32;
+case 29
+file='echocardiogram_R';min_C1=1e-05;	min_mew=16;
+case 30
+file='haberman-survival_R';	min_C1=1e-05;	min_mew=2;
+case 31
+file='heart-hungarian_R';min_C1=1e-05;	min_mew=4;
+case32
+file='heart-switzerland_R';	min_C1=0.1;	min_mew=8;
+case 33
+file='hepatitis_R';		min_C1=10;	min_mew=32;
+case 34
+file='mammographic_R';	min_C1=0.1;	min_mew=16;
+case 35
+file='planning_R';	min_C1=1e-05;	min_mew=8;
+case 36
+file='parkinsons_R';	min_C1=100000;	min_mew=2;
+case 37
+file='molec-biol-promoter_R';min_C1=0.0001;	min_mew=32;

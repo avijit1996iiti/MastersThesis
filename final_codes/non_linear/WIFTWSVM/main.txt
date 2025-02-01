@@ -1,0 +1,74 @@
+case 1
+file='iono';min_C1=1000;	min_C2=0.001;	;mew=4	;k=4;
+case 2
+file='wdbc';	min_C1=0.1;	min_C2=0.001;		mew=8;	k=6;
+case 3
+file='wpbc';min_C1=10;	min_C2=0.01;	mew=4;	k=1;
+case 4
+file='heart-stat';min_C1=0.01;	min_C2=0.001;	mew=4;	k=1;
+case 5
+file='pima';min_C1=10;	min_C2=10;	mew=16;	k=6;
+case 6
+file='aus';	min_C1=0.1;	min_C2=10;	mew=4;	k=8;
+case 7
+file='sonar';min_C1=0.1;	min_C2=0.001;	mew=8;	k=1;
+case 8
+file='crossplane130';min_C1=10;	min_C2=1e-05;		mew=0.5;	k=1;
+case 9
+file='crossplane150';		min_C1=0.1;	min_C2=1e-05;	mew=0.5;	k=1;
+case 10
+file='brwisconsin';	min_C1=10;	min_C2=100000;		mew=4;	k=4;
+case 11
+file='vehicle 1';	min_C1=10;	min_C2=0.001;		mew=8;	k=5;
+case 12
+file='vehicle2';min_C1=10;	min_C2=0.0001;	alpha_d=1.25375;	mew=8;	k=5;
+case 13
+
+file='cleve';	min_C1=0.1;	min_C2=0.1;	mew=16;	k=3;
+case 14
+file='haberman';	min_C1=0.1;	min_C2=0.1;mew=4;	k=3;
+case 15
+file='votes';min_C1=10;	min_C2=0.001;	mew=16;	k=2;
+case 16
+file='transfusion';	min_C1=10;	min_C2=100;		mew=2;	k=1;
+case 17
+
+file='checkerboard_Data';	min_C1=0.1;	min_C2=10;	mew=4;	k=8;
+case 18
+file='monk2';	min_C1=0.1;	min_C2=0.01;	mew=8;	k=5;
+case 19
+file='monk3';	min_C1=10;	min_C2=0.001	;mew=8;	k=2;
+case 20
+file='ripley';min_C1=0.1;	min_C2=0.1;mew=0.5;	k=4;
+case 21
+file='acute-inflammation_R';min_C1=0.1;	min_C2=0.001;	mew=0.5;	k=7;
+case 22
+
+file='acute-nephritis_R';min_C1=0.01;	min_C2=1e-05;	mew=0.5;	k=1;
+case 23
+file='breast-cancer_R';	min_C1=10;	min_C2=0.01;	mew=4;	k=3;
+case 24
+file='breast-cancer-wisc_R';min_C1=0.1;	min_C2=10;	mew=8;	k=2;
+case 25
+file='breast-cancer-wisc-prog_R';min_C1=1000;	min_C2=0.1;	mew=4;	k=1;
+case 26
+file='credit-approval_R';	min_C1=10;	min_C2=1e-05;	mew=32;	k=1;
+case 27
+file='echocardiogram_R'	;	min_C1=100;	min_C2=0.0001;		mew=8;	k=3;
+case 28
+file='haberman-survival_R';min_C1=10000;	min_C2=1e-05;	mew=2;	k=1;
+case 29
+file='heart-hungarian_R';min_C1=100000;	min_C2=0.01;	mew=4;	k=5;
+case 30
+file='hepatitis_R';	min_C1=1e-05;	min_C2=100;	mew=16;	k=4;
+case 31
+file='mammographic_R';min_C1=10;	min_C2=0.1;	mew=4;	k=5;
+case 32
+
+file='planning_R';min_C1=10;	min_C2=10;		mew=0.5	;k=6;
+case 33
+
+file='parkinsons_R'	;min_C1=100	;min_C2=0.0001;	mew=2;	k=1;
+case 34
+
+file='molec-biol-promoter_R';min_C1=0.001;	min_C2=0.001	;mew=32	;k=9;

@@ -1,0 +1,23 @@
+iono	accuracy=92.6136	min_C1=0.1	min_mew=32	sensitivity=0.970803	specificity=0.769231	training_time=3.81362
+wdbc	accuracy=96.1404	min_C1=0.1	min_mew=16	sensitivity=0.958716	specificity=0.970149	training_time=0.194601
+wpbc	accuracy=77.551	min_C1=0.01	min_mew=32	sensitivity=0.05	specificity=0.961538	training_time=0.284781
+heart-stat	accuracy=77.9412	min_C1=0.001	min_mew=16	sensitivity=0.730769	specificity=0.844828	training_time=0.0301061
+pima	accuracy=78.4416	min_C1=0.1	min_mew=32	sensitivity=0.601504	specificity=0.880952	training_time=0.156435
+aus	accuracy=86.9942	min_C1=0.1	min_mew=32	sensitivity=0.854305	specificity=0.882051	training_time=0.0777952
+bupa or liver-disorders	accuracy=68.2081	min_C1=10	min_mew=16	sensitivity=0.68	specificity=0.683673	training_time=0.0378515
+sonar	accuracy=74.2857	min_C1=0.001	min_mew=4	sensitivity=0.826087	specificity=0.677966	training_time=0.0347365
+cmc	accuracy=69.3351	min_C1=100	min_mew=16	sensitivity=0.736138	specificity=0.588785	training_time=0.390335
+crossplane130	accuracy=100	min_C1=1e-05	min_mew=0.5	sensitivity=1	specificity=1	training_time=0.0555133
+crossplane150	accuracy=100	min_C1=1e-05	min_mew=0.5	sensitivity=1	specificity=1	training_time=0.0213708
+brwisconsin	accuracy=96.7836	min_C1=0.0001	min_mew=8	sensitivity=0.965517	specificity=0.975309	training_time=0.0696678
+vehicle 1	accuracy=85.1415	min_C1=10	min_mew=16	sensitivity=0.789916	specificity=0.87541	training_time=0.124828
+vehicle2	accuracy=99.0566	min_C1=10	min_mew=16	sensitivity=1	specificity=0.987768	training_time=0.113841
+cleve	accuracy=78.5235	min_C1=0.01	min_mew=32	sensitivity=0.728571	specificity=0.835443	training_time=0.0381492
+haberman	accuracy=74.6753	min_C1=1e-05	min_mew=16	sensitivity=0.919643	specificity=0.285714	training_time=0.0455624
+votes	accuracy=94.4954	min_C1=0.001	min_mew=16	sensitivity=0.954023	specificity=0.938931	training_time=0.0470382
+transfusion	accuracy=81.6	min_C1=0.1	min_mew=16	sensitivity=0.298507	specificity=0.928571	training_time=0.112332
+checkerboard_Data	accuracy=86.9942	min_C1=0.1	min_mew=32	sensitivity=0.854305	specificity=0.882051	training_time=0.100453
+monk2	accuracy=87.3754	min_C1=0.01	min_mew=4	sensitivity=0.805556	specificity=0.911917	training_time=0.0782916
+monk3	accuracy=97.1223	min_C1=0.1	min_mew=16	sensitivity=0.958333	specificity=0.985075	training_time=0.0748721
+ripley	accuracy=91.3738	min_C1=0.1	min_mew=2	sensitivity=0.92284	specificity=0.903974	training_time=0.32796
+

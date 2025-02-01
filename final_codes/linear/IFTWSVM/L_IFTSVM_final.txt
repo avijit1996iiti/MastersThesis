@@ -1,0 +1,22 @@
+iono	size(A,1)=174	size(A_test,1)=176	accuracy=88.6364	min_C1=1000	min_C2=1000	alpha_d=1.11177	mew=4
+wdbc	size(A,1)=283	size(A_test,1)=285	accuracy=98.9474	min_C1=10	min_C2=1e-05	alpha_d=1.01817	mew=2
+wpbc	size(A,1)=96	size(A_test,1)=98	accuracy=78.5714	min_C1=10	min_C2=100	alpha_d=0.562749	mew=32
+heart-stat	size(A,1)=134	size(A_test,1)=136	accuracy=86.0294	min_C1=1e-05	min_C2=10	alpha_d=1.09597	mew=4
+pima	size(A,1)=383	size(A_test,1)=385	accuracy=77.6623	min_C1=1e-05	min_C2=100	alpha_d=1.06916	mew=2
+aus	size(A,1)=344	size(A_test,1)=346	accuracy=86.4162	min_C1=10000	min_C2=10000	alpha_d=1.01777	mew=2
+bupa or liver-disorders	size(A,1)=171	size(A_test,1)=173	accuracy=43.3526	min_C1=100	min_C2=100000	alpha_d=1.22123	mew=4
+sonar	size(A,1)=103	size(A_test,1)=105	accuracy=72.381	min_C1=10	min_C2=1e-05	alpha_d=1.00481	mew=4
+cmc	size(A,1)=735	size(A_test,1)=737	accuracy=52.3745	min_C1=1000	min_C2=1e-05	alpha_d=0.282913	mew=32
+crossplane130	size(A,1)=64	size(A_test,1)=66	accuracy=100	min_C1=1e-05	min_C2=1e-05	alpha_d=0.901814	mew=2
+crossplane150	size(A,1)=74	size(A_test,1)=76	accuracy=100	min_C1=1e-05	min_C2=1e-05	alpha_d=0.883228	mew=2
+brwisconsin	size(A,1)=340	size(A_test,1)=342	accuracy=98.538	min_C1=10000	min_C2=1e-05	alpha_d=1.09447	mew=4
+vehicle 1	size(A,1)=422	size(A_test,1)=424	accuracy=77.1226	min_C1=0.1	min_C2=100	alpha_d=1.02488	mew=2
+vehicle2	size(A,1)=422	size(A_test,1)=424	accuracy=96.934	min_C1=0.1	min_C2=10	alpha_d=1.15259	mew=4
+cleve	size(A,1)=147	size(A_test,1)=149	accuracy=80.5369	min_C1=100	min_C2=1e-05	alpha_d=0.929076	mew=8
+haberman	size(A,1)=152	size(A_test,1)=154	accuracy=72.7273	min_C1=1e-05	min_C2=10	alpha_d=1.23022	mew=4
+votes	size(A,1)=216	size(A_test,1)=218	accuracy=94.4954	min_C1=1e-05	min_C2=1000	alpha_d=1.02731	mew=2
+transfusion	size(A,1)=373	size(A_test,1)=375	accuracy=82.1333	min_C1=10000	min_C2=10000	alpha_d=1.24752	mew=8
+checkerboard_Data	size(A,1)=344	size(A_test,1)=346	accuracy=86.4162	min_C1=10000	min_C2=10000	alpha_d=1.01777	mew=2
+monk2	size(A,1)=299	size(A_test,1)=301	accuracy=64.1196	min_C1=1e-05	min_C2=100	alpha_d=0.968889	mew=4
+monk3	size(A,1)=276	size(A_test,1)=278	accuracy=82.0144	min_C1=100	min_C2=10	alpha_d=1.04078	mew=4
+ripley	size(A,1)=624	size(A_test,1)=626	accuracy=89.4569	min_C1=1000	min_C2=1e-05	alpha_d=0.451971	mew=8

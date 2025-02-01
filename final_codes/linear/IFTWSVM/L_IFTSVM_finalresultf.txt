@@ -1,0 +1,15 @@
+iono	accuracy=88.6364	min_C1=1000	min_C2=1000	alpha_d=1.11177	mew=4	sensitivity=0.963504	specificity=0.615385	training_time=0.39168
+wdbc	accuracy=98.9474	min_C1=10	min_C2=1e-05	alpha_d=1.01817	mew=2	sensitivity=0.990826	specificity=0.985075	training_time=0.100658
+wpbc	accuracy=78.5714	min_C1=10	min_C2=100	alpha_d=0.562749	mew=32	sensitivity=0	specificity=0.987179	training_time=0.149178
+heart-stat	accuracy=86.0294	min_C1=1e-05	min_C2=10	alpha_d=1.09597	mew=4	sensitivity=0.935897	specificity=0.758621	training_time=0.0240806
+pima	accuracy=77.6623	min_C1=1e-05	min_C2=100	alpha_d=1.06916	mew=2	sensitivity=0.586466	specificity=0.876984	training_time=0.234067
+aus	accuracy=86.4162	min_C1=10000	min_C2=10000	alpha_d=1.01777	mew=2	sensitivity=0.874172	specificity=0.85641	training_time=0.0370352
+bupa or liver-disorders	accuracy=43.3526	min_C1=100	min_C2=100000	alpha_d=1.22123	mew=4	sensitivity=1	specificity=0	training_time=0.0579137
+sonar	accuracy=72.381	min_C1=10	min_C2=1e-05	alpha_d=1.00481	mew=4	sensitivity=0.673913	specificity=0.762712	training_time=0.0293765
+cmc	accuracy=52.3745	min_C1=1000	min_C2=1e-05	alpha_d=0.282913	mew=32	sensitivity=0.472275	specificity=0.649533	training_time=2.37259
+crossplane130	accuracy=100	min_C1=1e-05	min_C2=1e-05	alpha_d=0.901814	mew=2	sensitivity=1	specificity=1	training_time=0.021083
+crossplane150	accuracy=100	min_C1=1e-05	min_C2=1e-05	alpha_d=0.883228	mew=2	sensitivity=1	specificity=1	training_time=0.0286139
+brwisconsin	accuracy=98.538	min_C1=10000	min_C2=1e-05	alpha_d=1.09447	mew=4	sensitivity=0.992337	specificity=0.962963	training_time=0.295968
+vehicle 1	accuracy=77.1226	min_C1=0.1	min_C2=100	alpha_d=1.02488	mew=2	sensitivity=0.453782	specificity=0.895082	training_time=0.0853859
+vehicle2	accuracy=96.934	min_C1=0.1	min_C2=10	alpha_d=1.15259	mew=4	sensitivity=0.979381	specificity=0.966361	training_time=0.255953
+cleve	accuracy=80.5369	min_C1=100	min_C2=1e-05	alpha_d=0.929076	mew=8	sensitivity=0.714286	specificity=0.886076	training_time=0.0562083
