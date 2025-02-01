@@ -8,7 +8,7 @@ the time complexity for big data sets we have used the least square model, which
 We have checked the efficiency of the proposed model on a considerable amount of data sets. It can be seen that the proposed model can generalize brilliantly when compared
 to other baseline models in terms of accuracy and area under the curve (AUC).
 
-Awards and Recognition 
+# Awards and Recognition 
 1. Best Research Papaer Award
 ![IMG-20230502-WA0001](https://github.com/user-attachments/assets/c257b84a-a838-4dea-b546-859809fb5ec1)
 ![image](https://github.com/user-attachments/assets/52fa3734-f752-4d6f-b68e-54d4a75db1b3)
